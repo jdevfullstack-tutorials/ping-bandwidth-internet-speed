@@ -17,3 +17,9 @@ my workplace is more than 50MBPS most of the time?
 
 So I really need to have that answer. 
 And now I have the answer.
+
+## Internet Speed
+
+## Bandwidth
+
+## Ping / Latency
