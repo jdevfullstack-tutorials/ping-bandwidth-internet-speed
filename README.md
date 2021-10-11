@@ -37,5 +37,17 @@ than 25MBPS download speed plus 5MBPS upload speed
 is really a fast one.
 
 ## Bandwidth
+Bandwidth is when you think of the volume passing
+through your connection: think of a road.
+The more lane it has, the more vehicles can pass
+through at a given time.
+
+So here is the catch: no matter how fast is 
+your speed connection, say, your modem is being
+used by so many people, it can only transmit
+the maximum data it can handle. So it will 
+result to a clog network when it can't handle
+all the demanding uploads and downloads.
+
 
 ## Ping / Latency
