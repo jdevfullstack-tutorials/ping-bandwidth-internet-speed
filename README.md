@@ -49,5 +49,10 @@ the maximum data it can handle. So it will
 result to a clog network when it can't handle
 all the demanding uploads and downloads.
 
+This cloggin will affect your latency
+because no matter how fast is your connection,
+if it's clogged, then you can send and received
+data in real time, it will increase your latency.
+
 
 ## Ping / Latency
