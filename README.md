@@ -19,6 +19,15 @@ So I really need to have that answer.
 And now I have the answer.
 
 ## Internet Speed
+First of all, you know that when you just want
+a quality experience watching YouTube videos
+or NetFlix, all you need is a fast connection, right?
+
+That's true. My connection here is 25MBPS subscription
+it's not pure fiber, so, download speed is far more
+ahead of the upload speed. But that's just okay.
+I have my online class and things have been okay
+for several months.
 
 ## Bandwidth
 
