@@ -34,7 +34,7 @@ until I played online Counter Strike.
 So again, for just browsing and regular connection,
 just knowing the Internet speed is enough. More
 than 25MBPS download speed plus 5MBPS upload speed
-is really fast one.
+is a really fast one.
 
 ## Bandwidth
 Bandwidth is when you think of the volume passing
