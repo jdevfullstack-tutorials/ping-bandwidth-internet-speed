@@ -1,7 +1,7 @@
 # Ping | Bandwidth | Internet Speed
 When I had my first stable Internet connection at home, I 
 was so satisfied by the loading speed
-everytime I watched YouTube videos.
+every time I watched YouTube videos.
 There is almost no lag and the download speed is more than
 25+ MBPS. And then came the high demanding game: the online
 Counter Strike. Casual games are no problem but
