@@ -29,6 +29,13 @@ ahead of the upload speed. But that's just okay.
 I have my online class and things have been okay
 for several months.
 
+I was not noticing the importance of other factors,
+until when I played online Counter Strike.
+So again, for just browsing and regular connection,
+just knowing the Internet speed is enough. More
+than 25MBPS download speed plus 5MBPS upload speed
+is really a fast one.
+
 ## Bandwidth
 
 ## Ping / Latency
