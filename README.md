@@ -56,3 +56,27 @@ data in real time, it will increase your latency.
 
 
 ## Ping / Latency
+Latency is how long (duration in milleseconds)
+data sent will return to the device that initiated the ping.
+Ping is the signal sent. In gaming, since, ping
+is a shorter term, mostly it will be used,
+but the complete term is ping rate / latency.
+
+At this point, several factors are involved. You 
+can have a good ping but still you lag in
+your fast action game. Conversely, you can have 200+ ping
+but you don't experience any lag. All of these things
+I experienced when playing CS online. And I 
+was wondering why because my connection is so fast.
+
+One is the quality of connection. You know, even if it
+is fast, sometimes it's being shared by all users
+in your home or all users at your certain area.
+
+Another one is the connection itself. No matter how
+fast is your Wi Fi technology, still interference
+will be there from time to time. Whenever I'm lagging
+severely, I'm checking whether the Wi Fi connection
+is full bar or not, and most of the time, it's not.
+If it goes back to full bar, I still lag because
+my connection is now fluctuating.
