@@ -87,3 +87,9 @@ If it goes back to full bar, I still lag because
 my connection is now fluctuating. So better
 use a cable, not necessarily the latest one, but
 cat7 will do.
+
+## Useful Links
+
+https://www.ghostgb.co.uk/ping-vs-latency-vs-jitter/
+
+https://www.hp.com/us-en/shop/tech-takes/5-reasons-your-ping-is-so-high
