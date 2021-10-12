@@ -72,6 +72,11 @@ was wondering why because my connection is so fast.
 One is the quality of connection. You know, even if it
 is fast, sometimes it's being shared by all users
 in your home or all users at your certain area.
+Another one here is network traffic, most of the time
+when I'm testing in incognito a random search and
+recaptcha appears, I know my connection is distorted.
+At this point, data sent and received in my real time 
+game will also be distorted, causing lagging. 
 
 Another one is the connection itself. No matter how
 fast is your Wi Fi technology, still interference
@@ -79,4 +84,6 @@ will be there from time to time. Whenever I'm lagging
 severely, I'm checking whether the Wi Fi connection
 is full bar or not, and most of the time, it's not.
 If it goes back to full bar, I still lag because
-my connection is now fluctuating.
+my connection is now fluctuating. So better
+use a cable, not necessarily the latest one, but
+cat7 will do.
