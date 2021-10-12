@@ -88,6 +88,15 @@ my connection is now fluctuating. So better
 use a cable, not necessarily the latest one, but
 cat7 will do.
 
+Also, as we all know, geographical location is very
+important. For example, Malaysia and Singapore
+are closer to one another than the Philippines.
+This causes better ping for Malaysia and Singapore
+players than the Philippines, now matter how good
+the connection is in the Philippines. This was
+proven by the CS Online where the servers are
+located at Singapore.
+
 ## Useful Links
 
 https://www.ghostgb.co.uk/ping-vs-latency-vs-jitter/
