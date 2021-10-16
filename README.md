@@ -80,14 +80,15 @@ At this point, data sent and received in my real time
 game will also be distorted, causing lagging. 
 
 Another one is the connection itself. No matter how
-fast your Wi Fi technology is, still interference
+fast your WiFi technology is, still interference
 will be there from time to time. Whenever I'm lagging
-severely, I check whether the Wi Fi connection
+severely, I check whether the WiFi signal
 is full bar or not, and most of the time, it's not.
 If it goes back to full bar, I still lag because
 my connection is now fluctuating. So better
 use a cable, not necessarily the latest one, but
-cat7 will do.
+cat7 will do. This will also solve radio inteference
+the disrupt your WiFi signal.
 
 Also, as we all know, geographical location is very
 important. For example, Malaysia and Singapore
@@ -149,12 +150,20 @@ that when you reach the distance that you
 should hit and you hit it perfectly,
 the code will still process this without
 bias, whether the other one has a lower ping rate.
-Meaning, in reality, it's just like hitting
+For example, in reality, it's just like hitting
 a physical button when both players started
-at the same time. Now, whether the other one
+at the same time. 
+But in online gaming, whether the other one
 has a little bit of delay, the code will still
 process it as who hit the button first, regardless
 of the ping.
+
+But this is still debatable. Other maps, like
+fight yard, gun game, sniper, 
+in my experience, even
+with 200+ ping rate, I can still win the battle
+against lower ping rate. It's just that, knife map
+is quite a unique situation.
 
 But of course, this is mostly theoretical
 discussion. If you are a gamer, you should have
