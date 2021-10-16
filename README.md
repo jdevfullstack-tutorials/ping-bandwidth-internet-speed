@@ -104,24 +104,24 @@ them off when you are playing.
 ## Ping For Pro Gamers
 As we all know, in CS:GO, when there is a
 competition, they will be playing somewhere
-where they use local connection LAN, 
+where they use LAN connection, 
 not the Internet. This is actually a way
 to eliminate the reason that you've lost the
 game because of lag and bad ping, plus all
 those setups that will affect your gameplay.
 
 Now, I've been observing this at the Knife
-Map of online CS 1.6, whether 4 ping rate 
+Map of online CS 1.6, whether the 4 ping rate 
 can be defeated by a higher ping like 50 ping rate.
 
 Just to give you a complete idea, knife skill in
 CS 1.6 is really a skill, it will require you
-to have a perfect timing before hitting, a 
+to have perfect timing before hitting, a 
 split-second eye-hand coordination. Now,
 in order to win, you should not hit too close,
 because by that time, you're dead when you
-battle a pro gamer in knife. Nor
-you should hit too far, since after a hit
+battle a knife pro gamer. Nor
+should you hit too far, since after a hit
 your opponent has the chance to move a little
 bit forward and hit you.
 
@@ -156,7 +156,7 @@ has a little bit of delay, the code will still
 process it as who hit the button first, regardless
 of the ping.
 
-But of course, this is mostly theoritical
+But of course, this is mostly theoretical
 discussion. If you are a gamer, you should have
 the lowest possible ping rate.
 
