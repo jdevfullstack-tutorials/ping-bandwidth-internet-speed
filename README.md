@@ -3,8 +3,9 @@ When I had my first stable Internet connection at home, I
 was so satisfied by the loading speed
 every time I watched YouTube videos.
 There is almost no lag and the download speed is more than
-25+ MBPS. And then came the high demanding game: the online
-Counter Strike. Casual games are no problem but
+25+ MBPS. And then I played the online
+Counter Strike. I realized I have a problem.
+Casual games are no problem but
 when a split-second fast action game is what you want,
 you need to optimize everything, particularly your latency.
 
