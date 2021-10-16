@@ -107,7 +107,8 @@ competition, they will be playing somewhere
 where they use local connection LAN, 
 not the Internet. This is actually a way
 to eliminate the reason that you've lost the
-game because of lag and bad ping.
+game because of lag and bad ping, plus all
+those setups that will affect your gameplay.
 
 Now, I've been observing this at the Knife
 Map of online CS 1.6, whether 4 ping rate 
@@ -123,6 +124,38 @@ battle a pro gamer in knife. Nor
 you should hit too far, since after a hit
 your opponent has the chance to move a little
 bit forward and hit you.
+
+The question is, can a higher ping defeat a lower
+ping, particularly too low ping? I've seen pro
+gamers that constantly have a 4 ping rate.
+In a direct attack battle, mostly you will not
+win if you have a higher ping
+but with a trick, you can still win.
+Now my problem is that, what if you always
+attack directly without a trick, can you still win?
+
+The low ping has all the advantages because
+he has no delay and the movement is really in real
+time, while you with a higher ping will have a little
+bit of delay, so mostly he will defeat you.
+Now there are instances where a higher ping gamer
+will still win the battle. In this case, a lot 
+of questions are actually arising.
+
+Does a gamer with a higher ping, with a perfect
+timing, will still hit correctly? Maybe yes.
+I'm thinking in the code level of this game,
+that when you reach the distance that you 
+should hit and you hit it perfectly,
+the code will still process this without
+bias, whether the other one has a lower ping rate.
+Meaning, in reality, it's just like hitting
+a physical button when both players started
+at the same time. Now, whether the other one
+has a little bit of delay, the code will still
+process it as who hit the button first, regardless
+of the ping.
+
 
 ## Useful Links
 
