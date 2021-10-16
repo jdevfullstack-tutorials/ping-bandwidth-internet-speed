@@ -55,6 +55,11 @@ because no matter how fast your connection is,
 if it's clogged, then you can't send and receive
 data in real time, it will increase your latency.
 
+Take note also that fast action games does not
+require too much bandwith, rather it is affected
+by the clogged bandwith 
+because you can't send and receive
+data in real time.
 
 ## Ping / Latency
 Latency is how long (duration in milliseconds)
@@ -77,7 +82,8 @@ Another one here is network traffic, most of the time
 when I'm testing in incognito a random search and
 recaptcha appears, I know my connection is distorted.
 At this point, data sent and received in my real time 
-game will also be distorted, causing lagging. 
+game will also be distorted, causing lagging
+regardless of the ping. 
 
 Another one is the connection itself. No matter how
 fast your WiFi technology is, still interference
@@ -156,7 +162,8 @@ at the same time.
 But in online gaming, whether the other one
 has a little bit of delay, the code will still
 process it as who hit the button first, regardless
-of the ping.
+of the delay, the server will wait for both
+hits and process it who hits first.
 
 But this is still debatable. Other maps, like
 fight yard, gun game, sniper, 
