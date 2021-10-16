@@ -101,6 +101,29 @@ Another one is your firewall and real time
 antivirus. You can simply turn
 them off when you are playing. 
 
+## Ping For Pro Gamers
+As we all know, in CS:GO, when there is a
+competition, they will be playing somewhere
+where they use local connection LAN, 
+not the Internet. This is actually a way
+to eliminate the reason that you've lost the
+game because of lag and bad ping.
+
+Now, I've been observing this at the Knife
+Map of online CS 1.6, whether 4 ping rate 
+can be defeated by a higher ping like 50 ping rate.
+
+Just to give you a complete idea, knife skill in
+CS 1.6 is really a skill, it will require you
+to have a perfect timing before hitting, a 
+split-second eye-hand coordination. Now,
+in order to win, you should not hit too close,
+because by that time, you're dead when you
+battle a pro gamer in knife. Nor
+you should hit too far, since after a hit
+your opponent has the chance to move a little
+bit forward and hit you.
+
 ## Useful Links
 
 https://www.ghostgb.co.uk/ping-vs-latency-vs-jitter/
