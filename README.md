@@ -52,7 +52,7 @@ all the demanding uploads and downloads.
 
 This clogging will affect your latency
 because no matter how fast your connection is,
-if it's clogged, then you can send and receive
+if it's clogged, then you can't send and receive
 data in real time, it will increase your latency.
 
 
@@ -92,11 +92,14 @@ cat7 will do.
 Also, as we all know, geographical location is very
 important. For example, Malaysia and Singapore
 are closer to one another than the Philippines.
-This causes better ping for Malaysia and Singapore
+If the game server is located in Singapore, then
+this causes better ping for Malaysia and Singapore
 players than the Philippines, now matter how good
-the connection is in the Philippines. This was
-proven by CS Online where the servers are
-located in Singapore.
+the connection is in the Philippines.
+
+Another one is your firewall and real time
+antivirus. You can simply turn
+them off when you are playing. 
 
 ## Useful Links
 
