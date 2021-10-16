@@ -156,6 +156,9 @@ has a little bit of delay, the code will still
 process it as who hit the button first, regardless
 of the ping.
 
+But of course, this is mostly theoritical
+discussion. If you are a gamer, you should have
+the lowest possible ping rate.
 
 ## Useful Links
 
