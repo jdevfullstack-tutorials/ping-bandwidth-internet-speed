@@ -129,7 +129,7 @@ to have perfect timing before hitting, a
 split-second eye-hand coordination. Now,
 in order to win, you should not hit too close,
 because by that time, you're dead when you
-battle a knife pro gamer. Nor
+battle a pro knife gamer. Nor
 should you hit too far, since after a hit
 your opponent has the chance to move a little
 bit forward and hit you.
@@ -168,10 +168,11 @@ of the delay, the server will wait for both
 hits and process it who hits first.
 
 But this is still debatable. Other maps, like
-fight yard, gun game, sniper, 
+fight yard, gun game, sniper etc., 
 in my experience, even
 with 200+ ping rate, I can still win the battle
-against lower ping rate. It's just that, knife map
+against lower ping rate provided
+it's not lagging. It's just that, knife map
 is quite a unique situation.
 
 But of course, this is mostly theoretical
