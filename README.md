@@ -86,8 +86,8 @@ in your home or all users in your certain area.
 Another one here is network traffic, most of the time
 when I'm testing in incognito a random search and
 recaptcha appears, I know my connection is distorted.
-At this point, data sent and received in my real time 
-game will also be distorted, causing lagging
+At this point, data sent and received
+will also be distorted, causing lagging
 regardless of the ping. 
 
 Another one is the connection itself. No matter how
