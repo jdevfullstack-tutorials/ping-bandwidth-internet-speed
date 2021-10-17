@@ -117,9 +117,9 @@ As we all know, in CS:GO, when there is an
 official competition, they will be playing somewhere
 where they use LAN connection, 
 not the Internet. This is actually a way
-to eliminate the reason that you've lost the
+to eliminate the reason that a player lost the
 game because of lag and bad ping, plus all
-those setups that will affect your gameplay.
+those setups that will affect the gameplay.
 
 Now, I've been observing this at the Knife
 Map of online CS 1.6, whether the 4 ping rate 
