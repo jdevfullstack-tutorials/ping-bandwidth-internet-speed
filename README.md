@@ -74,7 +74,8 @@ can have a good ping but still you lag in
 your fast action game. Conversely, you can have 200+ ping
 but you don't experience any lag. All of these things
 I experienced when playing CS online. And I 
-was wondering why because my connection is so fast.
+was wondering why despite the connection being
+so fast.
 
 One is the quality of connection. You know, even if it
 is fast, sometimes it's being shared by all users
