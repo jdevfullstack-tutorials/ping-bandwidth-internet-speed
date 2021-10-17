@@ -56,7 +56,8 @@ if it's clogged, then you can't send and receive
 data in real time, it will increase your latency.
 
 Take note also that fast action games does not
-require too much bandwith, rather it is affected
+require too much bandwith compared to
+watching YouTube videos, rather it is affected
 by the clogged bandwith 
 because you can't send and receive
 data in real time.
@@ -94,7 +95,7 @@ If it goes back to full bar, I still lag because
 my connection is now fluctuating. So better
 use a cable, not necessarily the latest one, but
 cat7 will do. This will also solve radio inteference
-the disrupt your WiFi signal.
+that disrupt your WiFi signal.
 
 Also, as we all know, geographical location is very
 important. For example, Malaysia and Singapore
