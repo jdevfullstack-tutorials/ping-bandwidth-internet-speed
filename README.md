@@ -38,7 +38,8 @@ than 25MBPS download speed plus 5MBPS upload speed
 is fast enough.
 
 ## Bandwidth
-Bandwidth is when you think of the volume passing
+Bandwidth is when you think of the 
+volume of data passing
 through your connection: think of a road.
 The more lanes it has, the more vehicles can pass
 through at a given time.
@@ -88,7 +89,7 @@ game will also be distorted, causing lagging
 regardless of the ping. 
 
 Another one is the connection itself. No matter how
-fast your WiFi technology is, still interference
+fast your WiFi technology is, interference
 will be there from time to time. Whenever I'm lagging
 severely, I check whether the WiFi signal
 is full bar or not, and most of the time, it's not.
@@ -96,7 +97,7 @@ If it goes back to full bar, I still lag because
 my connection is now fluctuating. So better
 use a cable, not necessarily the latest one, but
 cat7 will do. This will also solve radio inteference
-that disrupt your WiFi signal.
+that disrupts your WiFi signal.
 
 Also, as we all know, geographical location is very
 important. For example, Malaysia and Singapore
@@ -106,13 +107,13 @@ this causes better ping for Malaysia and Singapore
 players than the Philippines, now matter how good
 the connection is in the Philippines.
 
-Another one is your firewall and real time
+Another one is your firewall and real-time
 antivirus. You can simply turn
 them off when you are playing. 
 
 ## Ping For Pro Gamers
-As we all know, in CS:GO, when there is a
-competition, they will be playing somewhere
+As we all know, in CS:GO, when there is an
+official competition, they will be playing somewhere
 where they use LAN connection, 
 not the Internet. This is actually a way
 to eliminate the reason that you've lost the
@@ -151,8 +152,8 @@ Now there are instances where a higher ping gamer
 will still win the battle. In this case, a lot 
 of questions are actually arising.
 
-Does a gamer with a higher ping, with a perfect
-timing, will still hit correctly? Maybe yes.
+Will a gamer with a higher ping, with a perfect
+timing, still hit correctly? Maybe yes.
 I'm thinking in the code level of this game,
 that when you reach the distance that you 
 should hit and you hit it perfectly,
