@@ -98,8 +98,7 @@ is full bar or not, and most of the time, it's not.
 If it goes back to full bar, I still lag because
 my connection is now fluctuating. So better
 use a cable, not necessarily the latest one, but
-cat7 will do. This will also solve radio interference
-that disrupts your WiFi signal.
+cat7 will do.
 
 Also, as we all know, geographical location is very
 important. For example, Malaysia and Singapore
