@@ -25,8 +25,8 @@ a quality experience watching YouTube videos
 or NetFlix, all you need is a fast connection, right?
 
 That's true. My connection here is a 25MBPS subscription.
-It's not pure fiber, so download speed is far more
-ahead of the upload speed. But that's just okay.
+It's not pure fiber, so download speed is faster
+than the upload speed. But that's just okay.
 I have my online class and things have been okay
 for several months.
 
