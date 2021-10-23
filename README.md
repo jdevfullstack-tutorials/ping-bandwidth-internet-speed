@@ -105,8 +105,8 @@ important. For example, Malaysia and Singapore
 are closer to one another than the Philippines.
 If the game server is located in Singapore, then
 this causes better ping for Malaysia and Singapore
-players than the Philippines, now matter how good
-the connection is in the Philippines.
+players than the Philippines
+most of the time.
 
 Another one is your firewall and real-time
 antivirus. You can simply turn
