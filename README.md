@@ -123,7 +123,8 @@ game because of lag and bad ping, plus all
 those setups that will affect the gameplay.
 
 Now, I've been observing this at the Knife
-Map of online CS 1.6, whether the 4 ping rate 
+Map (no guns and explosives, pure knife only)
+of online CS 1.6, whether the 4 ping rate 
 can be defeated by a higher ping like 50 ping rate.
 
 Just to give you a complete idea, knife skill in
