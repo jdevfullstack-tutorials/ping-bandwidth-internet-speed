@@ -24,7 +24,7 @@ And now I have the answer.
 ## Internet Speed
 First of all, you know that when you just want
 a quality experience watching YouTube videos
-or NetFlix, all you need is a fast connection, right?
+or Netflix, all you need is a fast connection, right?
 
 That's true. My connection here is a 25MBPS subscription.
 It's not pure fiber, so download speed is faster
