@@ -83,6 +83,7 @@ so fast.
 One is the quality of connection. You know, even if it
 is fast, sometimes it's being shared by all users
 in your home or all users in your certain area.
+
 Another one here is network traffic, most of the time
 when I'm testing in incognito a random search and
 recaptcha appears, I know my connection is distorted.
