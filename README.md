@@ -47,7 +47,7 @@ The more lanes it has, the more vehicles can pass
 through at a given time.
 
 So here is the catch: no matter how fast is 
-your speed connection, say, your modem is being
+your connection, say, your modem is being
 used by so many people, it can only transmit
 the maximum data it can handle. So it will 
 result in a clogged network when it can't handle
