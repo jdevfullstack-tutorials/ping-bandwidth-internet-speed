@@ -62,7 +62,7 @@ Take note also that fast action games do not
 require too much bandwidth compared to
 watching YouTube videos, rather it is affected
 by the clogged bandwidth 
-because you can't send and receive
+because, again, you can't send and receive
 data in real time.
 
 ## Ping / Latency
