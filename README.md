@@ -94,7 +94,7 @@ regardless of the ping.
 Another one is the connection itself. No matter how
 fast your Wi-Fi technology is, interference
 will be there from time to time. Whenever I'm lagging
-severely, I check whether the Wi-Fi signal
+severely, I will check whether the Wi-Fi signal
 is full bar or not, and most of the time, it's not.
 If it goes back to full bar, I still lag because
 my connection is now fluctuating. So better
