@@ -1,6 +1,6 @@
 # Ping | Bandwidth | Internet Speed
 
-
+*`updated 21 April 2022`*
 
 When I had my first stable Internet connection at home, I 
 was so satisfied by the loading speed
